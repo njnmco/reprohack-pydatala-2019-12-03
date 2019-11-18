@@ -3,17 +3,17 @@
 
 ![](https://github.com/reprohack/reprohack-hq/raw/master/assets/reprohack-banner.png)
 
-# Welcome to the **Awesome conference / organiser \#ReproHack**\!
+# Welcome to the **PyData LA 2019 / Neal Fultz \#ReproHack**\!
 
 <br>
 
-#### :date: **27th June 2019**
+#### :date: **3rd Dec 2019**
 
-#### :alarm\_clock: **9.30am-15:30pm**
+#### :alarm\_clock: **12.30pm-17:30pm**
 
-##### :round\_pushpin: **Ada Lovelace Seminar Room, Dept. of Computer Science**
+##### :round\_pushpin: **Golden Eage Ballroom 3**
 
-##### :earth\_africa: [**The University of Sheffield, 211 Portobello, Sheffield S1 4DP**](https://www.openstreetmap.org/?mlat=53.38119&mlon=-1.48036#map=19/53.38119/-1.48036)
+##### :earth\_africa: [**CSU Los Angeles**](https://www.openstreetmap.org/?mlat=34.0675241&mlon=-118.1687638#map=19/34.0675241/-118.1687638)
 
 [![Gitter](https://badges.gitter.im/reprohack/community.svg)](https://gitter.im/reprohack/community?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge)
 
@@ -32,13 +32,14 @@ It’s imperative to note that **ReproHacks are by no means an attempt to
 criticise or discredit work**. We see reproduction as **beneficial
 scientific activity in itself**, with useful outcomes for authors and
 valuable learning experiences for the participants and the research
-community as a whole.
+community as a
+whole.
 
 -----
 
 ## **Two ways to get involved:**
 
-### **[Nominate a paper](https://link-to-submissionform)**
+### **[Nominate a paper](https://docs.google.com/forms/d/e/1FAIpQLSe_-r2gdg0VVxr8F2cWs1tgBtNkhVzM6JyGDdaIoa32BQJn8Q/viewform)**
 
 We invite nominations for papers that have both associated **code** and
 **data** publicly available. We also encourage analyses based on open
@@ -46,9 +47,11 @@ source tools as we cannot guarantee participants will have access to
 specialised licenced software.
 
 [**Current list of proposed papers and
-projects**](https://youraccount.shinyapps.io/reprohack-awesome-conf)
+projects**](https://njnm.shinyapps.io/reprohack-awesome-conf)
 
 <br>
+
+### [**REGISTER as a participant**](https://www.eventbrite.com/e/pydata-la-2019-tickets-66383126719)
 
 Join us at the hack to **dig into exciting science**, learn more about
 **reproducibility**, working with **other people’s code and data** and
@@ -60,9 +63,9 @@ more\!
 
 This is the master repo of the hack. We’ll collect information on the
 teams and projects through
-[issues](https://github.com/your_account/reprohack-location-ISOdate/issues/)
+[issues](https://github.com/njnmco/reprohack-pydatala-2019-12-03/issues/)
 in this repo. We’ll track of discussions and collaborative notes on the
-event [**hackpad**](https://hackmd.io/link-to-copy-of-hackpad/edit)
+event [**hackpad**](https://hackmd.io/5H7o9ejrRD25woxRKdgVBA)
 
 As all Carpentries events, we strive to make this event open and
 inclusive to all. As such the event is governed by the [Carpentries Code
@@ -78,7 +81,7 @@ reach out to for guidance or even just to say hello\! We’ve set up a
 [**gitter channel**](https://gitter.im/reprohack/community) as a public
 lobby where you can also reach the organisers prior to the hack. You can
 also start discussions or add comments through our collaborative
-[**hackpad**](https://hackmd.io/link-to-copy-of-hackpad/edit).
+[**hackpad**](https://hackmd.io/5H7o9ejrRD25woxRKdgVBA).
 
 ### **Participants**
 
@@ -87,20 +90,20 @@ also start discussions or add comments through our collaborative
 #### **1. Project review and team formation**
 
 We’ll start with a brief review of the [**papers
-proposed**](https://youraccount.shinyapps.io/reprohack-awesome-conf) and
-then form into teams.
+proposed**](https://njnm.shinyapps.io/reprohack-awesome-conf) and then
+form into teams.
 
 #### **2. Select and register your project**
 
   - In your teams **decide which paper/hack topic** you wish to work on.
   - To register your team and paper / topic [**open a new
-    issue**](https://github.com/your_account/reprohack-location-ISOdate/issues/new/choose)
+    issue**](https://github.com/njnmco/reprohack-pydatala-2019-12-03/issues/new/choose)
     in this repository using the issue templates provided.
   - **Complete details** and create.
   - Please also add each individual participants details in the relevant
     section of the
-    [**hackpad**](https://hackmd.io/link-to-copy-of-hackpad/edit) so we
-    have a complete list of participants.
+    [**hackpad**](https://hackmd.io/5H7o9ejrRD25woxRKdgVBA) so we have a
+    complete list of participants.
 
 #### **3. Work on your project\!**
 
@@ -108,7 +111,8 @@ Follow any instructions/documentation associated with the papers and try
 and reproduce the work. As you work through your paper, keep in mind the
 main points on which feedback to the authors will provided,
 **Reproducibility**, **Documentation** and **Reusability**. It might
-help to have a look at the [feedback form](https://link-to-feedbackform)
+help to have a look at the [feedback
+form](https://docs.google.com/forms/d/e/1FAIpQLScWdrSZLzb5KpIf2ZoSbwJEyD22A4E_58okaBbWrdc5x1tNMw/viewform)
 before you begin and keep notes during. Feel free to use the event
 hackpad for that.
 
@@ -130,9 +134,10 @@ and **update your team’s issue with any relevant URLs**.
 #### **4. Leave feedback for the authors**
 
 Please complete the [**Reproducibility feedback
-form**](https://link-to-feedbackform). Please also remember to be kind
-and constructive. Reproducibilty is hard and all authors submitting
-their papers have been incredibly brave. Here’s an
+form**](https://docs.google.com/forms/d/e/1FAIpQLScWdrSZLzb5KpIf2ZoSbwJEyD22A4E_58okaBbWrdc5x1tNMw/viewform).
+Please also remember to be kind and constructive. Reproducibilty is hard
+and all authors submitting their papers have been incredibly brave.
+Here’s an
 [example](https://github.com/annakrystalli/write-ups/blob/master/assets/OpenCon_ReproHack%20feedback_form.pdf)
 of feedback to authors.
 
@@ -147,8 +152,8 @@ You can use the hackpad to take notes and summarise your experiences.
 #### Collaborative note taking:
 
 Feel free to contribute any additional thoughts on our collaborative
-[**hackpad**](https://hackmd.io/link-to-copy-of-hackpad/edit). These can
-help form the basis for a blogpost on the
+[**hackpad**](https://hackmd.io/5H7o9ejrRD25woxRKdgVBA). These can help
+form the basis for a blogpost on the
 event.
 
 <a rel="license" href="http://creativecommons.org/licenses/by/4.0/"><img alt="Creative Commons License" style="border-width:0" src="https://i.creativecommons.org/l/by/4.0/88x31.png" /></a><br />This
