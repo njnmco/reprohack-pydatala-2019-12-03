@@ -1,23 +1,25 @@
 ---
-title: "CarpentryConnect Manchester 2019"
+title: "PyData LA 2019"
 output:
     html_document:
         theme: flatly
         css: reprohack.css
 params: 
-  title: "Awesome conference / organiser"
-  room_location: "Ada Lovelace Seminar Room, Dept. of Computer Science"
-  address: "The University of Sheffield, 211 Portobello, Sheffield S1 4DP"
-  date: "27th June 2019"
-  time: "9.30am-15:30pm"
+  title: "PyData LA 2019 / Neal Fultz"
+  room_location: "Golden Eagle Ballroom 3"
+  address: "CSU Los Angeles"
+  date: "3rd Dec 2019"
+  time: "12.30pm-17:30pm"
   bannerurl: "https://github.com/reprohack/reprohack-hq/raw/master/assets/reprohack-banner.png"
-  latitude: 53.38119
-  longitude: -1.48036
-  registration_url: null
-  hackpad_url: https://hackmd.io/link-to-copy-of-hackpad/edit
-  submission_url: https://link-to-submissionform
-  reprohack_repo_url: https://github.com/your_account/reprohack-location-ISOdate
-  submission_form_title: ReproHack Paper Submission Form - your event
+  latitude: 34.0675241
+  longitude: -118.1687638
+  registration_url: https://www.eventbrite.com/e/pydata-la-2019-tickets-66383126719
+  hackpad_url: https://hackmd.io/5H7o9ejrRD25woxRKdgVBA
+  submission_url: https://docs.google.com/forms/d/e/1FAIpQLSe_-r2gdg0VVxr8F2cWs1tgBtNkhVzM6JyGDdaIoa32BQJn8Q/viewform
+  feedback_url: https://docs.google.com/forms/d/e/1FAIpQLScWdrSZLzb5KpIf2ZoSbwJEyD22A4E_58okaBbWrdc5x1tNMw/viewform
+  paper_shinyapp_url: https://njnm.shinyapps.io/reprohack-awesome-conf
+  reprohack_repo_url: https://github.com/njnmco/reprohack-pydatala-2019-12-03
+  submission_form_title: ReproHack Paper Submission Form - PyData 2019
 runtime: shiny
 ---
 
